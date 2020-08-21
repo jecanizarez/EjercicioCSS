@@ -1,0 +1,16 @@
+.label-edad{
+    color: orangered;   
+    font-weight: bolder;
+    font-size: large;
+}
+.input-text-box{
+    background-color: greenyellow;
+    width: 150px;
+    margin-bottom: 10px;
+}
+.button{
+    background-color: white;
+    border-radius: 8px;
+    border-color: gainsboro;
+    border-width: 1px;
+}

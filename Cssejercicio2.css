@@ -1,0 +1,15 @@
+.label-rojo {
+    color: red;
+}
+.label-azul {
+    color: blue;
+}
+.label-naranja{
+    color: orange;
+}
+.texto-centrado {
+    text-align: center;
+}
+.texto-negrilla{
+    font-weight: bold;
+}
